@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+svg{
+    transform: translate3d(0px, 0px, 0px);
+}
+
+svg g{
+    /* transform: matrix(1,0,0,1,291,232) */
+    
+}
